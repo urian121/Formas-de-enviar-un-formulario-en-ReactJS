@@ -1,8 +1,3 @@
-# React + Vite
+# Formas de enviar un formulario en ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##### En el desarrollo de formularios en React, existen diversas técnicas para su manipulación. Una opción popular es emplear librerías como 'React Hook Form', conocida por su facilidad de uso y eficacia. Otra alternativa es 'formik', que ofrece una solución integral para el manejo de formularios. Además, es posible controlar los campos del formulario de manera nativa mediante el uso de estados y eventos 'onChange', proporcionando un enfoque más personalizado y flexible.
